@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list">
+        <item>Українська</item>
+        <item>English</item>
+        <item>Москальська</item>
+    </string-array>
+    <string-array name="lValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+   <string-array name="s_cost">
+        <item>Витрата</item>
+        <item>Переказ</item>
+        <item>Дохідk</item>
+    </string-array>
+    <string-array name="s_chalk">
+        <item>Гаманець</item>
+        <item>Кредитна картка</item>
+        <item>Зарплатна картка</item>
+        
+    </string-array>
+     <string-array name="s_category">
+        <item>Без категорії</item>
+        <item>Відпочинок</item>
+        <item>Житло</item>
+        <item>Звязок</item>
+        <item>Покупки</item>
+        <item>Транспорт</item>
+        <item>Харчування</item>
+    </string-array>
+    <string-array name="s_ChiseCash">
+        <item>Грн</item>
+        <item>Долари</item>
+        <item>Євро</item>
+        <item>Рублі</item>
+    </string-array>
+</resources>
