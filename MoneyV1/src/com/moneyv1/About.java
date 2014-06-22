@@ -23,6 +23,8 @@ public class About extends Activity {
 				finish();
 			}
 		});
+		
+		//test git
 	}
 	
 	
